@@ -1,3 +1,3 @@
-ceaesdarsdsa dsasd sdadjkala  aa boss!  ggg
+ceaesdarsdsa dsasd sdadjkala  my boss!
 
-Creating a new branch is quick & simple
+Creating a new branch is quick and simple.
