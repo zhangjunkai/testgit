@@ -1,2 +1,6 @@
-GET笔记.docx
+# 忽略所有.docx的文件扩展名的文件
+*.docx
+# 忽略指定的文件
 abc.txt
+# 忽略images目录
+images
